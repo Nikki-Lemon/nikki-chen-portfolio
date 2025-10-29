@@ -1,30 +1,15 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# TSWD-portfolio-templates
-These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
-It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
-
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
-
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+This is my public portfolio for Telling Stories with Data at CMU! Here’s where all my cool work will go.
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi! I'm Nikki Chen, MSPPM-DA (Master of Public Policy and Management-Data Analytics) 2nd year student at Carnegie Mellon University. I previously worked across tech and consumer sectors, focusing on strategy and analytics. 
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
-
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+1. Master professional data visualization design and critique.
+2. Develop and apply the principles of data storytelling.
+3. Validate communication effectiveness through user-centered methods.
 
 # Portfolio
 
@@ -104,9 +89,6 @@ Make sure to check these from your publicly accessible URL to make sure they're 
 
 Looking for more?  A nice Markdown guide [can be found here](https://www.markdownguide.org/cheat-sheet/)
 
-## References
-_List any references you used here._
-
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
+## URLS
+- Web page URL: https://nikki-lemon.github.io/nikki-chen-portfolio/
+- This repository: https://github.com/Nikki-Lemon/nikki-chen-portfolio
