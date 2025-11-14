@@ -71,12 +71,6 @@ Interviewee 2, grad student at Carnegie Mellon University: bar charts may not be
 
 ---
 
-### **Synthesis**
-
-From the feedback, both interviewees pointed out that the original “beer for him / wine for her” framing felt stereotypical. They also emphasized that most early dates involve non-alcoholic drinks, and this insight was missing. One interviewee suggested switching to a dot plot to compare the genders more cleanly. Based on this, I removed the stereotype framing, reframed the story toward coffee and tea as shared preferences, and adopted the dot plot recommendation.
-
----
-
 ## **Step five: build the solution**
 
 ### **Final Redesign Explanation**
@@ -90,8 +84,6 @@ I removed the “beer for him / wine for her” framing because it reinforces ge
 I took the suggestion of using a dot plot, because it clearly compares men and women across each drink type and makes similarities and differences easy to see. I also went with the simplified color scheme, using pink for women and blue for men, which keeps the visual clean and intuitive.
 
 ### **Final Visualization**
-
-*(Insert Datawrapper embed or screenshot below)*
 
 <iframe title="Drink &amp;amp; Dating" aria-label="Dot Plot" id="datawrapper-chart-CNgEO" src="https://datawrapper.dwcdn.net/CNgEO/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="288" data-external="1"></iframe>
 
@@ -114,6 +106,5 @@ window.addEventListener("message",function(a){
 ## **References**
 
 Original visualization: https://dribbble.com/shots/10539609-Drink-and-Dating-Infographics  
-Dataset source: *(Insert if available)*  
-Class materials: *Telling Stories With Data*, CMU  
+Dataset source: https://www.zoosk.com/date-mix/dating-data/dating-data-study-drinks-dating/
 
