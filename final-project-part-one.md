@@ -9,8 +9,6 @@ In this project, I will explore how users think about their own preferences befo
 
 The goal of my project is to show how often users misjudge their interest in Romance movies, and how large this bias can be. I also compare user predictions with the system’s predicted ratings from MovieLens to understand when the recommendation system predicts better than the users themselves, and when the system needs improvement. Through several visualizations, I want to build a clear story that explains how these mismatches happen, why they matter, and what the recommendation team can learn from them.
 
----
-
 ## Project structure
 
 ### Summary
@@ -35,8 +33,6 @@ Compare user prediction error with system prediction error. Highlight the key in
 **Resolution:**  
 Explain what these insights could mean for the recommendation team. Suggest how these findings can improve ranking strategies, support exploration, or refine personalization methods. End with the idea that understanding prediction bias is useful for improving long-term satisfaction.
 
----
-
 ## Initial sketches
 
 <div style="display: flex; justify-content: space-between;">
@@ -52,8 +48,7 @@ Explain what these insights could mean for the recommendation team. Suggest how 
   <img src="https://raw.githubusercontent.com/nikki-lemon/nikki-chen-portfolio/main/sketch_5.png" height="220">
   <img src="https://raw.githubusercontent.com/nikki-lemon/nikki-chen-portfolio/main/sketch_6.png" height="220">
 </div>
-
----
+> sketches generated using ChatGPT 5.1
 
 # The data
 
@@ -66,13 +61,9 @@ The primary data source for this project is the **MovieLens Beliefs Dataset (202
 | MovieLens Beliefs Dataset (2024) | https://grouplens.org/datasets/movielens/ml_belief_2024/ | Public dataset providing predicted ratings, actual ratings, certainty, and system predictions. |
 | Processed dataset for this project | *(Link to be added after upload)* | Filtered dataset containing only Romance movies and merged belief–rating records. |
 
----
-
 # Method and medium
 
 I plan to complete my final project using **Shorthand** as the main storytelling platform and **Tableau** for all data visualizations. I will also use Python to clean and merge the dataset before importing it into Tableau.
-
----
 
 ## References
 
