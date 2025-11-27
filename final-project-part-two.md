@@ -1,6 +1,6 @@
 | [home page](https://nikki-lemon.github.io/nikki-chen-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Wireframes / storyboards
+# Wireframes
 
 Below are my wireframes and the early draft of my Shorthand story.  
 I used my outline from Part I and started building the high-fidelity charts in Tableau.  
@@ -9,11 +9,6 @@ My draft Shorthand storyboard is here:
 👉 **Shorthand Draft Sketch**: https://preview.shorthand.com/5wdSE2hwtsz3Lg1r
 
 ### Story structure in Shorthand draft
-
-**Intro section**  
-- Title: *Do people actually enjoy romance movies?*  
-- Subtitle: *Using 2.5M ratings to decode audience behaviour*  
-- Background collage based on my initial sketches  
 
 **Section 1 – Rating distribution**  
 - Romance vs Non-Romance rating distribution  
