@@ -1,68 +1,121 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://nikki-lemon.github.io/nikki-chen-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
-Text here!
+Below are my wireframes and the early draft of my Shorthand story.  
+I used my outline from Part I and started building the high-fidelity charts in Tableau.  
+My draft Shorthand storyboard is here:
+
+👉 **Shorthand Draft Sketch**: https://preview.shorthand.com/5wdSE2hwtsz3Lg1r
+
+### Story structure in Shorthand draft
+
+**Intro section**  
+- Title: *Do people actually enjoy romance movies?*  
+- Subtitle: *Using 2.5M ratings to decode audience behaviour*  
+- Background collage based on my initial sketches  
+
+**Section 1 – Rating distribution**  
+- Romance vs Non-Romance rating distribution  
+- Shows the two groups are not very different
+
+**Section 2 – Genre comparison**  
+- Rating ranking across genres  
+- Shows Romance sits in the middle
+
+**Section 3 – Popularity vs rating**  
+- Scatterplot of romance movies (num ratings vs avg rating)  
+- Shows popularity does not always match quality
+
+**Section 4 – Decade trend**  
+- Romance ratings and volume by decade  
+- Shows a mid-century “golden era”
+
+**Section 5 – User segmentation**  
+- Romance taste clusters  
+- Shows three groups: lovers, casual viewers, cynics
+
+These charts form the core of my story and will be refined in Part III.
+
 
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-Text here!
+My story is aimed at:
+- Young adults who watch movies often  
+- People who use IMDb, Letterboxd, or other review platforms  
+- Readers who like simple data stories with clear visuals  
+
+To find representative individuals, I spoke to:
+1. A classmate who watches movies frequently  
+2. Another classmate who reads data stories  
+3. A friend who likes data visualisation but not Romance movies  
+
+They match the type of readers I expect for my final story.
+
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
 
-Text here!
+### Research goals
+- Check if the narrative flow is easy to follow  
+- Test whether each visualisation is understandable  
+- Identify confusing sections  
+- Learn which parts are the most engaging  
+- Collect suggestions for improving clarity  
+
+### Interview questions
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+| Check narrative clarity | “Is the order of sections easy to follow?” |
+| Evaluate visual clarity | “Is each chart clear and readable?” |
+| Identify confusion | “Which part feels unclear or too sudden?” |
+| Test engagement | “Which section interested you the most, and why?” |
+| Improve storytelling | “What is one thing you wish you understood better?” |
 
+I also asked them to scroll through the Shorthand draft so I could observe their reactions.
 
-Text here!
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
+Below is a summarised version of the feedback. No personal information is included.
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| Questions | Interview 1 (movie fan) | Interview 2 (classmate) | Interview 3 (data-viz friend) |
+|----------|---------------------------|---------------------------|--------------------------------|
+| Is the flow clear? | Flow is clear | Wants smoother transition between sections | Suggested adding a short sentence between major sections |
+| Are charts readable? | Liked the genre ranking chart | Found scatterplots slightly crowded | Said distribution chart needs stronger colour contrast |
+| Any confusion? | Wanted early explanation of dataset size | No major confusion | Suggested adding data source under each chart |
+| Most interesting section? | Popularity vs rating | Popularity vs rating | Popularity vs rating |
+| One thing missing? | A simple “why romance?” statement in intro | More context in the intro | More annotations on charts |
+
+### Overall synthesis
+
+- Overall flow works, but transitions can be smoother  
+- Scatterplots need clearer points and labels  
+- Colours between Romance and Non-Romance need stronger contrast  
+- Readers want a clear dataset explanation early in the story  
+- Chart-level annotations will help with comprehension  
+- “Popularity vs rating” was the most engaging section, mentioned by all three  
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
+Based on the interviews, I will make the following improvements:
 
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| Research synthesis | Anticipated changes for Part III |
+|--------------------|----------------------------------|
+| Flow needs smoother transitions | Add 1–2 transition sentences between sections |
+| Scatterplots are crowded | Add transparency and highlight selected movies |
+| Colour contrast is weak | Strengthen Romance (red) vs Non-Romance (blue) |
+| Missing dataset context | Add short dataset explanation in the intro |
+| Charts need more guidance | Add annotations on peaks, clusters, and outliers |
+| Popularity vs rating is strongest section | Expand insight and highlight more labelled movies |
 
-> ...include any final thoughts you have here. 
+These changes will help improve clarity and storytelling in the final version.
 
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
 
 ## References
-_List any references you used here._
 
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
+MovieLens Beliefs Dataset (2024), GroupLens Research  
+https://grouplens.org/datasets/movielens/ml_belief_2024/
