@@ -6,7 +6,7 @@ Below are my wireframes and the early draft of my Shorthand story.
 I used my outline from Part I and started building the high-fidelity charts in Tableau.  
 My draft Shorthand storyboard is here:
 
-👉 **Shorthand Draft Sketch**: https://preview.shorthand.com/5wdSE2hwtsz3Lg1r
+👉 **Shorthand Draft Sketch**: [https://preview.shorthand.com/5wdSE2hwtsz3Lg1r](https://preview.shorthand.com/bw3HOOr893f2QIZY/responsive/desktop)
 
 ### Story structure in Shorthand draft
 
