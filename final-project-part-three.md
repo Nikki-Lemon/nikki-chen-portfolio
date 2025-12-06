@@ -1,7 +1,7 @@
 | [home page](https://nikki-lemon.github.io/nikki-chen-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-Final data story: https://carnegiemellon.shorthandstories.com/romance-movies-polarized-ratings-or-not/index.html
+Final data story: [Romance Movies — Polarized Ratings or Not?](https://carnegiemellon.shorthandstories.com/romance-movies-polarized-ratings-or-not/index.html)
 
 # Changes made since Part II
 I received feedback that Part II looked more like a list of charts rather than a cohesive narrative. So I reorganized the logic and turned it into a complete story. I added more text, including background on the stereotype surrounding romance movies, explored the data to see whether the stereotype holds, offered possible explanations, and included a call for action.
