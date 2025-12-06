@@ -1,36 +1,26 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://nikki-lemon.github.io/nikki-chen-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
-
-Text here!
+Final data story: https://carnegiemellon.shorthandstories.com/romance-movies-polarized-ratings-or-not/index.html
 
 # Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
-
-Text here!
+I received feedback that Part II looked more like a list of charts rather than a cohesive narrative. So I reorganized the logic and turned it into a complete story. I added more text, including background on the stereotype surrounding romance movies, explored the data to see whether the stereotype holds, offered possible explanations, and included a call for action.
+I also realized that the text in Part II was hard to read — the color was too close to the background, the font was too small, and the overall page felt messy. I improved the layout, increased the font size, and switched to a pink background with blue text to ensure readability and accessibility.
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
-
-Text here!
+My audience is light-to-heavy movie lovers, especially those who enjoy romance films and want a deeper and more complete understanding of this genre.
 
 ## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
-
-Text here!
-
-## References
-> **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
+I followed a logic-based storytelling approach, structuring the narrative around the steps of solving a problem (define → think → explain → provide a solution).  
+I used a style inspired by romance films, including a pink background and images from famous romance movies like *Titanic*.  
+I kept the visualizations simple — not meant to be fancy, but easy to understand for people without a technical background.  
+I also avoided overly long text and kept everything concise and clean.
 
 ## AI acknowledgements
-> If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here.
-
-Text here!
+I used ChatGPT 5.1 to help create datasets for the visualizations from the original large dataset.  
+The notebook used in this process is available here:  
+https://github.com/Nikki-Lemon/nikki-chen-portfolio/blob/main/dataset_generation.ipynb
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
-
-Text here!
-
-
+I wish I could revisit the data to explore more questions. During my class presentation, a classmate mentioned that it would be fun to compare original movies with their sequels, and I would like to try this in the future.
+What excited me the most was searching for a story I truly wanted to tell through the data. I initially considered genres like thriller, which might be even more popular than romance, but the data did not reveal much of a story. When I switched to romance, I realized how interesting the patterns were and decided to explore them fully.
